@@ -1,3 +1,7 @@
+# About Kidnapped Vehicle Project
+This codebase holds my solution to localize a kidnapped vehicle using particle filters. The content below is part of original Udacity Kidnapped Vehicle project on github. 
+particle_filter.cpp holds the code I have worked upon as part of this project.
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
